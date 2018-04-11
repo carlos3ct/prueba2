@@ -18,6 +18,7 @@ public class Prueba2 {
         // TODO code application logic here
         System.out.println("Hola, mundo");
         System.out.println("Segunda versión de la prueba");
+        System.out.println("Rama1 de la prueba");
     }
     
 }
